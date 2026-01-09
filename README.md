@@ -1,2 +1,3 @@
-# ali-s-first-repository
-this is my first repository on  github
+# ali's-first-repository
+This is my first repository on github.
+Author- M.ali
